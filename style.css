@@ -1,5 +1,4 @@
-  <style>
-  @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@520&family=Mochiy+Pop+One&family=Nunito:wght@200&family=Poppins:wght@400;600;700;900&family=REM:wght@300&family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@520&family=Mochiy+Pop+One&family=Nunito:wght@200&family=Poppins:wght@400;600;700;900&family=REM:wght@300&family=Varela+Round&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -380,5 +379,4 @@ h3 {
   nav {
     padding: 0px 10px;
   }
-}
-  </style>
+} 
